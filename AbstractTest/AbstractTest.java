@@ -38,5 +38,6 @@
  		A aa;
  		aa = bb;
  		aa.f();
+ 		System.out.println("Git practice.");
  	}
  }

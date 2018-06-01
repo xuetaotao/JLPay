@@ -39,5 +39,6 @@
  		aa = bb;
  		aa.f();
  		System.out.println("Git practice.");
+ 		System.out.println("Git studying---2018.06.01");
  	}
  }
